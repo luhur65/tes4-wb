@@ -1,0 +1,1 @@
+terdapat fungsi mysql_* dimana fungsi tersebut sudah usang, ubah menjadi mysqli_* yang lebih modern dan aman, juga tambahkan prepared statement untuk mencegah SQL Injection 

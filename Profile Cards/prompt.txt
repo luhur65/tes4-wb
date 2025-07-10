@@ -1,0 +1,7 @@
+(ini prompt saya masukkan ke canva code untuk mengenerate tampilan) 
+Buatlah sebuah website statis yang menampilkan daftar profil pengguna dalam bentuk kartu (user cards), menggunakan HTML, CSS, dan Vanilla JavaScript tanpa library atau framework tambahan. Setiap kartu harus menampilkan avatar pengguna (menggunakan layanan avatar seperti Dicebear), nama lengkap, alamat email yang diklik akan membuka email client (mailto:), nomor telepon lengkap dengan ikon telepon, serta tautan ke situs pribadi pengguna. Di bawah informasi tersebut, tampilkan tiga ikon kecil sebagai aksi tambahan seperti tombol like, lihat profil, dan hapus. Pada ukuran layar besar, kartu ditampilkan dalam tiga atau empat kolom, dan akan otomatis menyesuaikan ke dua kolom atau satu kolom di layar tablet dan ponsel. 
+
+( kemudian saya upload file yg dari canva code ke gemini )
+difile tersebut ada libary tailwind css, dimn saya ingin mengganti code menjadi menggunakan css native saja tanpa menggunakan framework maupun library appaun, sama seperti js nya juga
+
+Lalu saya pecah menjadi file HTML, CSS, dan JS terpisah.
